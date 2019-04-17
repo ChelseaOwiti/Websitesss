@@ -1,0 +1,21 @@
+h1{
+  color: palevioletred;
+  text-align: center;
+}
+h2{
+  color: blue;
+  font-style: italic;
+  text-align: right;
+}
+p{
+
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+ul{
+  line-height: 40px;
+}
+body{
+  background-image: url("../images/sunrise.jpg");
+  
+}
